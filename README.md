@@ -1,4 +1,4 @@
-# Expense Tracker ASP.NET MVC Project
+# Expense Tracker Project
 
 This is an ASP.NET MVC project for tracking expenses. The project includes features such as adding income and expenses, categorizing them, and viewing summaries.
 
